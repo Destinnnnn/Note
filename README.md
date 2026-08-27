@@ -24,3 +24,4 @@
 ## 更多笔记内容
 
 - [2005-2026年英语一阅读精翻](https://github.com/Destinnnnn/kaoyan-english-1-2005-2026)
+- [湖科大计算机网络笔记](https://github.com/Destinnnnn/computer-network-notes)
